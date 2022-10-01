@@ -2,7 +2,7 @@
 
 ---
 
-## Python Tutorials Code Snippets
+## Python Tutorials Source Codes
 
 ---
 
